@@ -19,10 +19,13 @@ label {
     align-items: center;
     justify-content: center;
     margin: 0 auto;
-  }
+}
 
   select {
     margin-bottom: 10px;
-    margin-top: 10px;
+    margin-top: 20px;
+    border-radius: 4px;
+    padding: 4px;
   }
+
 
